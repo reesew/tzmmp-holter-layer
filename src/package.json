@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"express": "~4.12.2"
+		"raw-body": "*"
+		"request": "*"
+	}
+}
